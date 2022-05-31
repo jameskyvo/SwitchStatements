@@ -1,0 +1,8 @@
+C:\Users\plant\repos\SwitchStatements\SwitchStatements\bin\Debug\SwitchStatements.exe.config
+C:\Users\plant\repos\SwitchStatements\SwitchStatements\bin\Debug\SwitchStatements.exe
+C:\Users\plant\repos\SwitchStatements\SwitchStatements\bin\Debug\SwitchStatements.pdb
+C:\Users\plant\repos\SwitchStatements\SwitchStatements\obj\Debug\SwitchStatements.csproj.AssemblyReference.cache
+C:\Users\plant\repos\SwitchStatements\SwitchStatements\obj\Debug\SwitchStatements.csproj.SuggestedBindingRedirects.cache
+C:\Users\plant\repos\SwitchStatements\SwitchStatements\obj\Debug\SwitchStatements.csproj.CoreCompileInputs.cache
+C:\Users\plant\repos\SwitchStatements\SwitchStatements\obj\Debug\SwitchStatements.exe
+C:\Users\plant\repos\SwitchStatements\SwitchStatements\obj\Debug\SwitchStatements.pdb
